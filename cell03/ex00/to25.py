@@ -1,5 +1,4 @@
 n=int(input("Enter a number less than 25 \n:"))
-i = 1
 if n>=25 :
  print("Error")
 while n<25 :
