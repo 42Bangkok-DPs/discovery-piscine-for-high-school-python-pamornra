@@ -1,0 +1,7 @@
+n1=int(input("Give me a first number :"))
+n2=int(input("Give me a secone number :"))
+print("Thank you<3")
+print(f"{n1} + {n2} = {n1+n2}")
+print(f"{n1} - {n2} = {n1-n2}")
+print(f"{n1} * {n2} = {n1*n2}")
+print(f"{n1} / {n2} = {n1/n2}")
