@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 first_name=input("what's your first name? : ")
 last_name=input("what's your last name? : ")
 namef=first_name.strip()
