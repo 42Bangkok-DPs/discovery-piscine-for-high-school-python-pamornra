@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 n=[ ]
 print("Original array: [2, 8, 9, 48, 8, 22, -12, 2]")
 o=([2, 8, 9, 48, 8, 22, -12, 2])
