@@ -1,1 +1,1 @@
-checkmate
+#!/usr/bin/env python3
